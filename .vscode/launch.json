@@ -1,0 +1,11 @@
+{
+    "configurations": [
+    {
+        "name": "Attach to Nest.js",
+        "port": 9229,
+        "request": "attach",
+        "type": "node",
+        "localRoot": "${workspaceFolder}"
+    }
+    ]
+}
